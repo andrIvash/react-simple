@@ -1,0 +1,9 @@
+.app h1 {
+  color: var(--main-title-color);
+  font-family: var(--main-title-font);
+  font-weight: 700;
+}
+
+.app__text {
+  color: var(--main-text-color);
+}
