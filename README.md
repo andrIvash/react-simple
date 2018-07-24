@@ -13,4 +13,4 @@
 * npm install
 * npm run eject // only for setup new project
 * npm start
-* visit `http://localhost:300/
+* visit `http://localhost:3000/
